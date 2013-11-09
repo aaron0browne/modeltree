@@ -7,7 +7,7 @@ kwargs = {
     'include_package_data': True,
 
     # Dependencies
-    'install_requires': ['django>=1.3'],
+    'install_requires': ['django>=1.4,<1.7'],
 
     'test_suite': 'test_suite',
 
